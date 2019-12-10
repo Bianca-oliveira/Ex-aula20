@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(245, 88, 119);
+    color: darkmagenta;
+}
+
+img {
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+    height: 80px;
+}
+
+nav a {
+    color: black;
+    font-size: 14pt;
+    text-decoration: none;
+}
